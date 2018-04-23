@@ -14,3 +14,5 @@ Chapter 9-8 : Composite Pattern - Iterator Pattern을 활용한 Composite Patter
 Chapter 10-1 : State Pattern - 뽑기 기계 상태 변환 구현.
 Chapter 10-2 : State Pattern - State Pattern을 적용한 뽑기 기계 구현.
 Chapter 10-3 : State Pattern - 당첨 기능 추가.
+Chapter 12-1 : Compound Pattern - Adapter & Decorator Pattern을 이용한 오리 구현.
+Chapter 12-2 : Compound Pattern - Adapter & Abstract Pattern을 이용한 오리 구현.
