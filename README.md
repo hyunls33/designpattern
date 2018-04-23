@@ -11,4 +11,6 @@ Chapter 9-5 : Iterator Pattern - CafeMenu 추가.
 Chapter 9-6 : Iterator Pattern - printMenu() 메소드 반복 없애기.(ArrayList이용.)
 Chapter 9-7 : Composite Pattern - Composite Pattern를 이용한 메뉴 구성.
 Chapter 9-8 : Composite Pattern - Iterator Pattern을 활용한 Composite Pattern
-Chapter 10-1 : State Pattern - 
+Chapter 10-1 : State Pattern - 뽑기 기계 상태 변환 구현.
+Chapter 10-2 : State Pattern - State Pattern을 적용한 뽑기 기계 구현.
+Chapter 10-3 : State Pattern - 당첨 기능 추가.
