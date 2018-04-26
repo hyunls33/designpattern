@@ -1,5 +1,6 @@
 # designpattern
 
+ - Chapter 5-1 : Singleton Pattern - Singleton Pattern 연습 및 초콜릿 공장 구현.
  - Chapter 7-1 : Adapter Pattern - 오리와 칠면조 전환.
  - Chapter 7-2 : Adapter Pattern - Enumeration과 Iterator 전환.
  - Chapter 7-3 : Facade Pattern - 홈 씨어터.
