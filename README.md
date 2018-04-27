@@ -19,3 +19,5 @@
  - Chapter 12-2 : Compound Pattern - Adapter & Abstract Pattern을 이용한 오리 구현.
  - Chapter 12-3 : Compound Pattern - Adapter & Abstract & Composite & Iterator Pattern을 이용한 오리떼 구현.
  - Chapter 12-4 : Compound Pattern - Adapter & Abstract & Composite & Iterator & Observer Pattern을 이용한 오리떼 구현.
+ - Chapter 12-5 : MVC - MVC 구현.
+ - Chapter 12-6 : MVC - MVC + Adapter Pattern 구현.
